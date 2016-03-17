@@ -1,0 +1,84 @@
+[24-Feb-2014 23:11:17 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/postdata.php on line 23
+[24-Feb-2014 23:26:04 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/postdata.php on line 23
+[24-Feb-2014 23:27:48 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/postdata.php on line 23
+[25-Feb-2014 00:02:52 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/postdata.php on line 23
+[25-Feb-2014 00:05:19 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/postdata.php on line 23
+[25-Feb-2014 00:06:06 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/postdata.php on line 23
+[25-Feb-2014 00:07:04 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/postdata.php on line 23
+[25-Feb-2014 00:07:59 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/postdata.php on line 23
+[25-Feb-2014 00:14:16 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/postdata.php on line 23
+[25-Feb-2014 00:18:25 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/postdata.php on line 23
+[25-Feb-2014 00:26:57 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/postdata.php on line 23
+[25-Feb-2014 00:28:47 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/postdata.php on line 23
+[25-Feb-2014 00:41:16 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/postdata.php on line 23
+[25-Feb-2014 00:47:39 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/postdata.php on line 23
+[25-Feb-2014 01:05:22 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[25-Feb-2014 01:50:49 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[25-Feb-2014 02:00:17 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 11:21:50 Asia/Calcutta] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/captchit/public_html/user_login.php on line 19
+[17-Apr-2014 11:24:51 Asia/Calcutta] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/captchit/public_html/user_login.php on line 17
+[17-Apr-2014 11:30:37 Asia/Calcutta] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/captchit/public_html/user_login.php on line 17
+[17-Apr-2014 12:11:56 Asia/Calcutta] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/captchit/public_html/user_login.php on line 17
+[17-Apr-2014 12:16:39 Asia/Calcutta] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/captchit/public_html/user_login.php on line 17
+[17-Apr-2014 12:22:38 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 12:50:15 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 12:51:18 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 12:51:31 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 12:51:41 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 12:52:14 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 12:52:19 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 12:52:20 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 12:52:35 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 12:52:37 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 12:52:47 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 12:52:52 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 12:53:03 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 12:54:48 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 12:55:18 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 12:55:20 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 12:56:59 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 12:57:04 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 12:57:14 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 13:01:22 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 13:54:03 Asia/Calcutta] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/captchit/public_html/user_login.php on line 17
+[17-Apr-2014 13:54:41 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 13:54:59 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 13:55:04 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 13:55:09 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 13:55:13 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 13:55:18 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 13:55:23 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 13:55:26 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 13:55:31 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 13:56:03 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 13:56:21 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 14:05:05 Asia/Calcutta] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/captchit/public_html/user_login.php on line 17
+[17-Apr-2014 14:06:15 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 14:08:55 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 14:08:56 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 14:08:57 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 14:10:48 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[17-Apr-2014 14:33:51 Asia/Calcutta] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/captchit/public_html/user_login.php on line 17
+[17-Apr-2014 14:37:17 Asia/Calcutta] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/captchit/public_html/user_login.php on line 17
+[17-Apr-2014 14:42:10 Asia/Calcutta] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/captchit/public_html/user_login.php on line 17
+[18-Apr-2014 10:20:44 Asia/Calcutta] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/captchit/public_html/user_login.php on line 17
+[18-Apr-2014 10:57:44 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[18-Apr-2014 11:38:06 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[18-Apr-2014 12:46:41 Asia/Calcutta] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/captchit/public_html/user_login.php on line 17
+[18-Apr-2014 12:47:46 Asia/Calcutta] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/captchit/public_html/Return_Landmark.php on line 11
+[18-Apr-2014 12:47:46 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/captchit/public_html/Return_Landmark.php on line 13
+[18-Apr-2014 12:48:37 Asia/Calcutta] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/captchit/public_html/user_login.php on line 17
+[18-Apr-2014 12:49:38 Asia/Calcutta] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/captchit/public_html/Return_Landmark.php on line 11
+[18-Apr-2014 12:49:38 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/captchit/public_html/Return_Landmark.php on line 13
+[18-Apr-2014 12:53:00 Asia/Calcutta] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/captchit/public_html/Return_Landmark.php on line 11
+[18-Apr-2014 12:53:00 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/captchit/public_html/Return_Landmark.php on line 13
+[18-Apr-2014 12:55:13 Asia/Calcutta] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/captchit/public_html/Return_Landmark.php on line 11
+[18-Apr-2014 12:55:13 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/captchit/public_html/Return_Landmark.php on line 13
+[18-Apr-2014 12:58:25 Asia/Calcutta] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/captchit/public_html/Return_Landmark.php on line 11
+[18-Apr-2014 12:58:25 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/captchit/public_html/Return_Landmark.php on line 13
+[18-Apr-2014 12:58:37 Asia/Calcutta] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/captchit/public_html/Return_Landmark.php on line 11
+[18-Apr-2014 12:58:37 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, null given in /home/captchit/public_html/Return_Landmark.php on line 13
+[18-Apr-2014 14:04:49 Asia/Calcutta] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/captchit/public_html/user_login.php on line 17
+[18-Apr-2014 14:47:20 Asia/Calcutta] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/captchit/public_html/user_login.php on line 17
+[22-Apr-2014 18:34:49 Asia/Calcutta] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/captchit/public_html/civil_postdata.php on line 22
+[24-Apr-2014 14:39:03 Asia/Calcutta] PHP Warning:  mysqli_close() expects exactly 1 parameter, 0 given in /home/captchit/public_html/user_login.php on line 17

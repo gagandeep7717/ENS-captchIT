@@ -1,0 +1,77 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/greybg"
+    tools:context=".MainActivity" >
+
+    <AutoCompleteTextView
+        android:id="@+id/autocompleteTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:layout_marginBottom="3dp"
+        android:ems="10"
+        android:hint="@string/autocompleteHint" >
+    </AutoCompleteTextView>
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+    
+			 		<Button
+			        android:id="@+id/btnAccident"
+			        android:layout_width="match_parent"
+			        android:layout_height="wrap_content"
+			        android:layout_marginBottom="2dp"
+			        android:background="@drawable/acc_butt" />
+				    <Button
+				        android:id="@+id/btnMedical"
+						android:layout_width="match_parent"
+				        android:layout_height="wrap_content"
+				        android:layout_marginBottom="2dp"
+				        android:background="@drawable/medice_butt" />
+				
+				    <Button
+				        android:id="@+id/btnCrime"
+				        android:layout_width="match_parent"
+				        android:layout_height="wrap_content"
+				        android:layout_marginBottom="2dp"
+				        android:background="@drawable/crime_butt" />
+				
+				    <Button
+				        android:id="@+id/btnFire"
+				        android:layout_width="match_parent"
+				        android:layout_height="wrap_content"
+				        android:layout_marginBottom="2dp"
+				        android:background="@drawable/fire_butt" />
+				
+				    <Button
+				        android:id="@+id/btnElectricity"
+				        android:layout_width="match_parent"
+				        android:layout_height="wrap_content"
+				        android:layout_marginBottom="2dp"
+				        android:background="@drawable/electricity_butt1" />
+				
+				    <Button
+				        android:id="@+id/btnCivil"
+				        android:layout_width="match_parent"
+				        android:layout_height="wrap_content"
+				        android:layout_marginBottom="2dp"
+				        android:background="@drawable/civil_butt" />
+
+				     </LinearLayout>
+    	</ScrollView>
+				    
+</LinearLayout>

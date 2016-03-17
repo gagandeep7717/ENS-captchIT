@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/greybg"
+    android:orientation="vertical" >
+    
+     <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+		    <LinearLayout
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"
+		            android:orientation="vertical" >
+				    <Button
+				        android:id="@+id/btnRoad"
+				        android:layout_width="fill_parent"
+				        android:layout_height="wrap_content"
+				        android:layout_marginTop="5dp"
+				        android:layout_marginBottom="2dp"
+						android:background="@drawable/road_butt" />
+				
+				    <Button
+				        android:id="@+id/btnWaterSupply"
+				        android:layout_width="fill_parent"
+				        android:layout_height="wrap_content"
+				        android:layout_marginBottom="2dp"
+				        android:background="@drawable/watersupply_butt" />
+				
+				    <Button
+				        android:id="@+id/btnDrainage"
+				        android:layout_width="fill_parent"
+				        android:layout_height="wrap_content"
+				        android:layout_marginBottom="2dp"
+				        android:background="@drawable/drainage_buttt" />
+				
+				    <Button
+				        android:id="@+id/btnGarbage"
+				        android:layout_width="fill_parent"
+				        android:layout_height="wrap_content"
+				        android:layout_marginBottom="2dp"
+				        android:background="@drawable/garbage_butt" />
+				
+				    <Button
+				        android:id="@+id/btnPublic"
+				        android:layout_width="fill_parent"
+				        android:layout_height="wrap_content"
+				        android:layout_marginBottom="5dp"
+				        android:background="@drawable/public_butt" />
+				</LinearLayout>
+		</ScrollView>
+</LinearLayout>

@@ -1,0 +1,1 @@
+[17-Apr-2014 11:05:29 Asia/Calcutta] PHP Warning:  mysql_connect(): Unknown MySQL server host 'database-server' (1) in /home/captchit/public_html/admin/index.php on line 6
