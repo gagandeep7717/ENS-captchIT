@@ -6,7 +6,7 @@ To compile and run the project
 WEB PART 
 : Copy Web folder to your server or localhost.
 
-: Access Admin panel via "server"/captchit/admin
+: Access Admin panel via "yoururl"/captchit/admin
 
 : **username:** superadmin
 
