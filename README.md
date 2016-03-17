@@ -5,8 +5,11 @@ To compile and run the project
 
 WEB PART 
 : Copy Web folder to your server or localhost.
+
 : Access Admin panel via "server"/captchit/admin
+
 : **username:** superadmin
+
 : **password:** admin123
 
 
